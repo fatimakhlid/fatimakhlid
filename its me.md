@@ -1,4 +1,4 @@
-👋  _**HI THERE!!! ITS ME FATIMA KHALID**_
+👋  _**HI THERE!!! ITS ME @FATIMA KHALID**_
     
 - 👀 _I’m interested in development_
 
