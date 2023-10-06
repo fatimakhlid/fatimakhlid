@@ -2,8 +2,8 @@
     
 - 👀 _I’m interested in development_
 
-- 🌱 _I’m currently learning game development_
-- 💬 _Ask me About: unity,(C, C#, C++), algorithms_
+- 🌱 _I’m currently learning Machine learning development_
+- 💬 _Ask me About: unity,(C, C#, C++), Python, Web_development(HTML,CSS,JAVASCRIPT), Data Structure and Algorithms, SQL
 - 📫 _**How to reach me**_ **@fatimakhalid6789@gmail.com**
 
       MOTIVATION: TRY TO LEARN NEW THINGS DAILY
