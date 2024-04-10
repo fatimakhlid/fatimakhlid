@@ -1,10 +1,17 @@
-👋  _**HI THERE!!! ITS ME @FATIMA KHALID**_
-    
-- 👀 _I’m interested in development_
+👋  _**HI THERE!!! ITS ME **
 
-- 🌱 _I’m currently learning Machine learning development_
-- 💬 _Ask me About: Game Development(unity 2D/3D), C, C#, C++, Python, Web_development(HTML,CSS,JAVASCRIPT), Data Structure and Algorithms, SQL
-- 📫 _**How to reach me**_ **@fatimakhalid6789@gmail.com**
+    An Energetic developer with a knack for game development and machine learning.
+
+   **SKILLS AT A GLANCE:**
+    - Advanced programming in C, C#, C++, and Python
+    - Expertise in Game development with Unity, boasting a 80% improvement in performance
+    - Building ML model with TensorFlow, Keras, Open CV
+    - Web development skills with HTML, CSS, JavaScript for complete user interfaces
+    - Strong capability in debugging and solving complex technical problems.
+    - Collaborative teamwork and solo project management
+    - Continuous learning and skills enhancement in latest tech
+
+- 📫 _**How to reach me**_ **@fatimakhalid7676@gmail.com**
 
       MOTIVATION: TRY TO LEARN NEW THINGS DAILY
 <!---
