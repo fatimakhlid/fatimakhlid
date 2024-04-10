@@ -1,6 +1,6 @@
 👋  **HI THERE!!! ITS ME **
 
-    An Energetic developer with a knack for game development and machine learning.
+    An Energetic developer with a knack for Game development and Machine Learning.
 
    **SKILLS AT A GLANCE:**
    - Advanced programming in C, C#, C++, and Python
