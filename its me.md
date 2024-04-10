@@ -1,4 +1,4 @@
-👋  _**HI THERE!!! ITS ME **
+👋  **HI THERE!!! ITS ME **
 
     An Energetic developer with a knack for game development and machine learning.
 
@@ -11,7 +11,7 @@
    -   Collaborative teamwork and solo project management
    -   Continuous learning and skills enhancement in latest tech
 
-- 📫 _**How to reach me**_ **@fatimakhalid7676@gmail.com**
+     📫 _**How to reach me**_ **@fatimakhalid7676@gmail.com**
 
       MOTIVATION: TRY TO LEARN NEW THINGS DAILY
 <!---
