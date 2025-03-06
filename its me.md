@@ -11,7 +11,7 @@
    -   Collaborative teamwork and solo project management
    -   Continuous learning and skills enhancement in latest tech
 
-    📫 _**How to reach me**_ **@fatimakhalid7676@gmail.com**
+    📫 _**How to reach me**_ **@fatimakhalid6789@gmail.com**
 <!---
 fatimakhlid/fatimakhlid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
