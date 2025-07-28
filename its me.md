@@ -28,4 +28,4 @@ _  **🎯 Why Work With Me?**_
   
 **_  💡 Let’s turn your ideas into reality! and let’s build something great together. 🚀_**
 
-📫 _**How to reach me**_ **@fatimakhalid7676@gmail.com**
+📫 _**How to reach me**_ **@fatimakhalid6789@gmail.com**
